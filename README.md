@@ -1,1 +1,1 @@
-https://dwwd-io.github.io
+http://dwwd.io
